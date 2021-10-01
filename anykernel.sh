@@ -5,6 +5,10 @@
 # global properties
 properties() { '
 kernel.string=Imperial-X kernel
+kernel.compiler=AOSP CLANG 20
+kernel.made=RiteshSahany
+kernel.version=4.14.336
+message.word=Flashing Imperial-X... deleting lag.apk
 do.devicecheck=1
 do.modules=0
 do.systemless=1
